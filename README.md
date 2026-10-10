@@ -1,11 +1,12 @@
 # Hello! My Name is Zabdiel
 
-CS Student | Aspiring Game Developer
+CS Student • Aspiring Game Developer • Artist
 
 ### About Me
 - 🎓 Computer Science student building skills every day
 - 🎯 Dream: Become a professional Game Developer
-- 💻 Currently learning: Web Development • Python • C# • UI Design
+- 🎨 Good at drawing and improving animation skills for game assets
+- 💻 Currently learning: Web Development • Python • C# • Unity
 - 🧠 Motto: *Learn one step at a time, never stop creating*
 
 ### Tech Stack

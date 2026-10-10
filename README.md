@@ -3,7 +3,7 @@
 ### About Me
 -  Computer Science student building skills every day
 -  Dream: Become a professional Game Developer
--  Currently learning: Web development, Python, C# and UI Design
+-  Currently learning: Web development, Python, C# and Unity
 -  Motto: Learn one step at a time, never stop creating
 
 ### Tech Stack

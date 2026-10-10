@@ -1,9 +1,6 @@
 # Hello! My Name is Zabdiel
 
-**CS Student | Aspiring Game Developer**
-📍 Philippines
-
----
+CS Student | Aspiring Game Developer
 
 ### About Me
 - 🎓 Computer Science student building skills every day
